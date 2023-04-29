@@ -1,0 +1,10 @@
+.main-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-wrapper img{
+    width: 30%;
+}
+
